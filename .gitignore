@@ -75,4 +75,7 @@ DerivedDataCache/*
 
 #Starter content and mannequin unreal files
 Content/StarterContent/*
-Content/Mannequin/*
+Content/StylizedNatureVol2/*
+.vs
+Intermediate
+
