@@ -7,7 +7,10 @@
 		{
 			"Name": "COMP313marshadani_a1",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
