@@ -1,0 +1,17 @@
+Game Description
+
+For this assignment, I decided to implement a 3D platformer game, with a timed parkour course to a goal.
+
+What is the main action in the game
+ - The main action in the game is running around and jumping. This is how you complete the course to win the game
+
+What was the hardest part of the game to get working in Unreal
+ - I would say the most difficult part of the game to implement was getting the timer to work properly. 
+   Since I used levels to distinguish the main menu and end menu, transferring the elapsed time to a new level was particularly hard for me,
+   as I had initially stored it in the thirdpersoncharacter blueprint, but I learnt this gets reset each level, so the finished time was always saying
+   0 seconds. I had to learn about how to implement global variables, and ended up doing something like this by creating a gameInstance class and storing the time in there,
+   as this did not get reset each level
+
+What is the most interesting part of the game 
+ - I really like the rotating platforms in the parkour course, as I made them do a cool rotation, as it is not just a simple continuous spinning but rather 
+   it reverses direction halfway through, which I had fun implementing and playing.
