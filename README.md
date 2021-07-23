@@ -9,6 +9,6 @@ Assignment Number: 1
 
 Game Title: Marshmallow Hunt
 
-Link to video showcasing the game: https://drive.google.com/file/d/1aXCgOQZ-Rmrj4vqB_lkgJfHWkVcztfM4/view?usp=sharing
+Link to video showcasing the game: https://youtu.be/v94nMeHLyoc
 
 Note: I have ignored the starter content folders from my desktop project using the gitignore file
