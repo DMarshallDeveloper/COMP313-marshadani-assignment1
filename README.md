@@ -9,6 +9,9 @@ Assignment Number: 1
 
 Game Title: Marshmallow Hunt
 
-Link to video showcasing the game: https://youtu.be/v94nMeHLyoc
+Link to video showcasing the game: https://youtu.be/v94nMeHLyoc (5 minutes)
+Link to video talking about the blueprints: https://youtu.be/FhiSrBuraTA (3 minutes)
+My software couldn't merge the two videos so instead of uploading one longer video I have two smaller ones
+
 
 Note: I have ignored the starter content folders from my desktop project using the gitignore file
